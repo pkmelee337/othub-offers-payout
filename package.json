@@ -10,7 +10,7 @@
   "author": "Henk ter Harmsel",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "web3": "^1.2.9"
   }
 }
